@@ -1,6 +1,4 @@
-# model_evs
-
-# Effective Incentives for Electrical Vehicles (EVs) in the US
+## Effective Incentives for Electrical Vehicles (EVs) in the US
 
 ### Summary
 Adoption of electric vehicles (EVs) is a key part of reducing greenhouse gas emissions. Using EV sales numbers in each US state, I built a regression model to predict sales, and investigated the impact of incentive policies and other factors on EV adoption.
